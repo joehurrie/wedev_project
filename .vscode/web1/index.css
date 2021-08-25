@@ -19,12 +19,13 @@ header{
     justify-content:space-between ;
     align-items:center ;
     padding: 30px,10%;
-    margin: 20px;
+    margin: 0px;
+    height: 20px;
 }
 
 .logo{
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
     cursor: pointer;
 
@@ -37,6 +38,7 @@ header{
     display: inline-block;
     margin: 0px 30px;
     text-transform: capitalize;
+    width: 90px;
 
    
     
@@ -52,12 +54,11 @@ header{
 
     width: 25px;
     height: 25px;
-    margin-left: 0%;
-     margin: 0 8px;
+    margin: 0 8px;
 
 }
 .landingpage{
-    background-image: url(../images/hero1.jpg);
+    background-image: url(/images/hero1.jpg);
     height: 100vh;
     background-size: cover;
 
